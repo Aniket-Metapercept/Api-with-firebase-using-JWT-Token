@@ -5,8 +5,10 @@
  1. npm i 
  2. create .env inside 
     that create 
+
     
     MyMail = yourmail@gmail.com
     Password = yourpassword
-
+    SECRET_KEY = 3rt9enggnw
+    
 then it will run successfully run....
